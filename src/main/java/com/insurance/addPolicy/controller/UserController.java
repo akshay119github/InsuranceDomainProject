@@ -1,12 +1,12 @@
-package com.addPolicy.controller;
+package com.insurance.addPolicy.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.addPolicy.model.User;
-import com.addPolicy.service.UserService;
+import com.insurance.addPolicy.model.User;
+import com.insurance.addPolicy.service.UserService;
 
 @RestController
 public class UserController {

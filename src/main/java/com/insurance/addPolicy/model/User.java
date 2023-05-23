@@ -1,5 +1,5 @@
 // Build the Restful API to add user details into database
-package com.addPolicy.model;
+package com.insurance.addPolicy.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

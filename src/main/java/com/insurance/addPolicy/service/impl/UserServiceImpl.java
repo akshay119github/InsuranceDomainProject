@@ -1,11 +1,11 @@
-package com.addPolicy.service.impl;
+package com.insurance.addPolicy.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.addPolicy.model.User;
-import com.addPolicy.repository.UserRepository;
-import com.addPolicy.service.UserService;
+import com.insurance.addPolicy.model.User;
+import com.insurance.addPolicy.repository.UserRepository;
+import com.insurance.addPolicy.service.UserService;
 
 @Service
 public class UserServiceImpl implements UserService {
