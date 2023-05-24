@@ -1,3 +1,6 @@
+/*
+ * @Author - Akshay Tarate
+ */
 package com.insurance.usermultiplepremium.model;
 
 import java.util.Date;

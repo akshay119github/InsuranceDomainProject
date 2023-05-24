@@ -1,3 +1,6 @@
+/*
+ * @Author - Akshay Tarate
+ */
 package com.insurance.getduration.model;
 
 import java.util.Date;

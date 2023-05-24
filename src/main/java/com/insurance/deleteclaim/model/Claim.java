@@ -1,3 +1,6 @@
+/*
+ * @Author - Akshay Tarate
+ */
 package com.insurance.deleteclaim.model;
 
 import javax.persistence.Entity;

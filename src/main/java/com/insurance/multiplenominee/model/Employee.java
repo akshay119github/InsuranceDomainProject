@@ -1,3 +1,6 @@
+/*
+ * @Author - Akshay Tarate
+ */
 package com.insurance.multiplenominee.model;
 
 import java.util.List;

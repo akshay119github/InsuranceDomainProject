@@ -1,4 +1,6 @@
-// Build the Restful API to add user details into database
+/*
+ * @Author - Akshay Tarate
+ */
 package com.insurance.user.model;
 
 import javax.persistence.Entity;

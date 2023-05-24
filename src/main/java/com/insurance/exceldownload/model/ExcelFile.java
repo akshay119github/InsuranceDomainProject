@@ -1,3 +1,6 @@
+/*
+ * @Author - Akshay Tarate
+ */
 package com.insurance.exceldownload.model;
 
 import javax.persistence.Entity;

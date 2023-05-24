@@ -1,3 +1,6 @@
+/*
+ * @Author - Akshay Tarate
+ */
 package com.insurance.password.link.model;
 
 import javax.persistence.Entity;
